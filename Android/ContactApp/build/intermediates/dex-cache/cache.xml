@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\l010516c\Downloads\ContactApp\ContactApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="bf1914877b1a3ae12d0b67330e29c25fa6e59e76">
+        <dex dex="C:\Users\l010516c\Downloads\ContactApp\ContactApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f83bda358d2d17ee616873f9dc23bd2c7c845168\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l010516c\Downloads\ContactApp\ContactApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\l010516c\Downloads\ContactApp\ContactApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_bd1fc105f96d3eeb149e1a121fb6992117380888\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l010516c\Downloads\ContactApp\ContactApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\l010516c\Downloads\ContactApp\ContactApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_d837374f6a6d13e882bd9ed026c1aef9883d01a5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l010516c\Downloads\ContactApp\ContactApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b7caddcc1cb3652c3c530549131cb038825c86bd">
+        <dex dex="C:\Users\l010516c\Downloads\ContactApp\ContactApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e88c7d5d03c4df2254e9b122f4067dfb92b8fde1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\l010516c\Downloads\ContactApp\ContactApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_094d634603cfbcbfa7291b5e459ff765ff06345b\classes.dex" />
+    </item>
+
+</items>

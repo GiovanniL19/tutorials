@@ -1,0 +1,9 @@
+c:\users\l010516c\documents\visual studio 2015\Projects\ScreenScraper\ScreenScraper\bin\Debug\ScreenScraper.exe.config
+c:\users\l010516c\documents\visual studio 2015\Projects\ScreenScraper\ScreenScraper\bin\Debug\ScreenScraper.exe
+c:\users\l010516c\documents\visual studio 2015\Projects\ScreenScraper\ScreenScraper\bin\Debug\ScreenScraper.pdb
+c:\users\l010516c\documents\visual studio 2015\Projects\ScreenScraper\ScreenScraper\obj\Debug\ScreenScraper.csprojResolveAssemblyReference.cache
+c:\users\l010516c\documents\visual studio 2015\Projects\ScreenScraper\ScreenScraper\obj\Debug\ScreenScraper.Form1.resources
+c:\users\l010516c\documents\visual studio 2015\Projects\ScreenScraper\ScreenScraper\obj\Debug\ScreenScraper.Properties.Resources.resources
+c:\users\l010516c\documents\visual studio 2015\Projects\ScreenScraper\ScreenScraper\obj\Debug\ScreenScraper.csproj.GenerateResource.Cache
+c:\users\l010516c\documents\visual studio 2015\Projects\ScreenScraper\ScreenScraper\obj\Debug\ScreenScraper.exe
+c:\users\l010516c\documents\visual studio 2015\Projects\ScreenScraper\ScreenScraper\obj\Debug\ScreenScraper.pdb

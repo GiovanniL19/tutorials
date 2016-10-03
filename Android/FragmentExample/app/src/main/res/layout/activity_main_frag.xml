@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+    <Button
+        android:id="@+id/btn_one"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="showFragment"
+        android:layout_weight="0.5"
+        android:text="First Fragment"/>
+
+    <Button
+        android:id="@+id/btn_two"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="showFragment"
+        android:layout_weight="0.5"
+        android:text="Second Fragment"/>
+
+    <Button
+        android:id="@+id/btn_three"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="showFragment"
+        android:layout_weight="0.5"
+        android:text="Third Fragment"/>
+
+    </LinearLayout>
+
+    <fragment
+        android:id="@+id/fragment_place_holder"
+        android:name="uk.co.nashulver.fragmentexample.FragmentTwo"
+        android:layout_width="match_parent"
+        android:layout_height="167dp"
+        tools:layout="@layout/fragment_two" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btn2_one"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:onClick="showsSecondFragment"
+            android:layout_weight="0.5"
+            android:text="First Fragment"/>
+
+        <Button
+            android:id="@+id/btn2_two"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:onClick="showsSecondFragment"
+            android:layout_weight="0.5"
+            android:text="Second Fragment"/>
+
+        <Button
+            android:id="@+id/btn2_three"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:onClick="showsSecondFragment"
+            android:layout_weight="0.5"
+            android:text="Third Fragment"/>
+
+    </LinearLayout>
+
+    <fragment
+        android:id="@+id/fragment_three_place_holder"
+        android:name="uk.co.nashulver.fragmentexample.FragmentThree"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout="@layout/fragment_three" />
+
+
+</LinearLayout>

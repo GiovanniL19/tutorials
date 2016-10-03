@@ -1,0 +1,528 @@
+[
+    {
+        "outputFile": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 52,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 43,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 561,
+                        "endColumn": 43,
+                        "endOffset": 600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 47,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 47,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 58,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 250,
+                        "endColumn": 58,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 373,
+                    "endColumn": 48,
+                    "endOffset": 417
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 963,
+                        "endColumn": 48,
+                        "endOffset": 1007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 422,
+                    "endColumn": 48,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1012,
+                        "endColumn": 48,
+                        "endOffset": 1056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 471,
+                    "endColumn": 60,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 309,
+                        "endColumn": 60,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 532,
+                    "endColumn": 83,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 3,
+                        "startOffset": 1115,
+                        "endColumn": 82,
+                        "endOffset": 1194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 54,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1061,
+                        "endColumn": 54,
+                        "endOffset": 1111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 671,
+                    "endColumn": 42,
+                    "endOffset": 709
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 42,
+                        "endOffset": 731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 714,
+                    "endColumn": 70,
+                    "endOffset": 780
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 800,
+                        "endColumn": 70,
+                        "endOffset": 866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 785,
+                    "endColumn": 63,
+                    "endOffset": 844
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 736,
+                        "endColumn": 63,
+                        "endOffset": 795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 849,
+                    "endColumn": 40,
+                    "endOffset": 885
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 40,
+                        "endOffset": 245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 890,
+                    "endColumn": 52,
+                    "endOffset": 938
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 156,
+                        "endColumn": 52,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 943,
+                    "endColumn": 42,
+                    "endOffset": 981
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 605,
+                        "endColumn": 42,
+                        "endOffset": 643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 986,
+                    "endColumn": 44,
+                    "endOffset": 1026
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 648,
+                        "endColumn": 44,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1031,
+                    "endColumn": 44,
+                    "endOffset": 1071
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 871,
+                        "endColumn": 44,
+                        "endOffset": 911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1076,
+                    "endColumn": 46,
+                    "endOffset": 1118
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 916,
+                        "endColumn": 46,
+                        "endOffset": 958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1123,
+                    "endColumn": 60,
+                    "endOffset": 1179
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 60,
+                        "endOffset": 426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1184,
+                    "endColumn": 66,
+                    "endOffset": 1246
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 494,
+                        "endColumn": 66,
+                        "endOffset": 556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1251,
+                    "endColumn": 62,
+                    "endOffset": 1309
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 431,
+                        "endColumn": 62,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1314,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1600
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 250,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1605,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1760
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 581,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1765,
+                    "endLine": 45,
+                    "endColumn": 11,
+                    "endOffset": 2333
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 744,
+                        "endLine": 28,
+                        "endColumn": 11,
+                        "endOffset": 1322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2338,
+                    "endLine": 53,
+                    "endColumn": 11,
+                    "endOffset": 2732
+                },
+                "from": {
+                    "file": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 3,
+                        "startOffset": 1327,
+                        "endLine": 36,
+                        "endColumn": 11,
+                        "endOffset": 1728
+                    }
+                }
+            }
+        ]
+    }
+]

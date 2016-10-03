@@ -1,0 +1,643 @@
+<a href="/privacy/cookies/managing/cookie-settings.html">Change settings</a>
+/privacy/cookies/managing/cookie-settings.html
+Change settings
+<a href="/privacy/cookies/bbc">Find out more</a>
+/privacy/cookies/bbc
+Find out more
+<a href="/"> <img  src="http://static.bbci.co.uk/frameworks/barlesque/3.20.4/orb/4/img/bbc-blocks-dark.png" width="84" height="24" alt="BBC" /> </a>
+/
+ <img  src="http://static.bbci.co.uk/frameworks/barlesque/3.20.4/orb/4/img/bbc-blocks-dark.png" width="84" height="24" alt="BBC" /> 
+<a href="#page">Skip to content</a>
+#page
+Skip to content
+<a id="orb-accessibility-help" href="/accessibility/">Accessibility Help</a>
+/accessibility/
+Accessibility Help
+<a id="idcta-link" href="/id/status?ptrt=http%3A%2F%2Fwww.bbc.co.uk%2Fnews"> <span id="idcta-username">BBC iD</span> </a>
+/id/status?ptrt=http%3A%2F%2Fwww.bbc.co.uk%2Fnews
+ <span id="idcta-username">BBC iD</span> 
+<a href="http://www.bbc.co.uk/news/">News</a>
+http://www.bbc.co.uk/news/
+News
+<a href="http://www.bbc.com/news/">News</a>
+http://www.bbc.com/news/
+News
+<a href="/sport/">Sport</a>
+/sport/
+Sport
+<a href="/weather/">Weather</a>
+/weather/
+Weather
+<a href="http://shop.bbc.com/">Shop</a>
+http://shop.bbc.com/
+Shop
+<a href="http://www.bbc.com/earth/">Earth</a>
+http://www.bbc.com/earth/
+Earth
+<a href="http://www.bbc.com/travel/">Travel</a>
+http://www.bbc.com/travel/
+Travel
+<a href="http://www.bbc.com/capital/">Capital</a>
+http://www.bbc.com/capital/
+Capital
+<a href="/iplayer/">iPlayer</a>
+/iplayer/
+iPlayer
+<a href="http://www.bbc.com/culture/">Culture</a>
+http://www.bbc.com/culture/
+Culture
+<a href="http://www.bbc.com/autos/">Autos</a>
+http://www.bbc.com/autos/
+Autos
+<a href="http://www.bbc.com/future/">Future</a>
+http://www.bbc.com/future/
+Future
+<a href="/tv/">TV</a>
+/tv/
+TV
+<a href="/radio/">Radio</a>
+/radio/
+Radio
+<a href="/cbbc">CBBC</a>
+/cbbc
+CBBC
+<a href="/cbeebies">CBeebies</a>
+/cbeebies
+CBeebies
+<a href="/food/">Food</a>
+/food/
+Food
+<a href="/iwonder">iWonder</a>
+/iwonder
+iWonder
+<a href="/education">Bitesize</a>
+/education
+Bitesize
+<a href="/travel/">Travel</a>
+/travel/
+Travel
+<a href="/music/">Music</a>
+/music/
+Music
+<a href="http://www.bbc.com/earth/">Earth</a>
+http://www.bbc.com/earth/
+Earth
+<a href="/arts/">Arts</a>
+/arts/
+Arts
+<a href="/makeitdigital">Make It Digital</a>
+/makeitdigital
+Make It Digital
+<a href="/taster">Taster</a>
+/taster
+Taster
+<a href="/nature/">Nature</a>
+/nature/
+Nature
+<a href="/local/">Local</a>
+/local/
+Local
+<a href="#orb-footer" data-alt="More">Menu<span class="orb-icon orb-icon-arrow"></span></a>
+#orb-footer
+Menu<span class="orb-icon orb-icon-arrow"></span>
+<a class="orb-search__button" href="http://search.bbc.co.uk/search">Search the BBC</a>
+http://search.bbc.co.uk/search
+Search the BBC
+<a href="#core-navigation" class="navigation__section navigation__section--core" data-event="header">
+                        Sections                    </a>
+#core-navigation
+
+                        Sections                    
+<a class="nations-pseudo-nav__link" data-entityid="england_nav_link" href="/news/england"><span class="nations-pseudo-nav__link-inner" class="nations-pseudo-nav__link-inner" >England</span></a>
+/news/england
+<span class="nations-pseudo-nav__link-inner" class="nations-pseudo-nav__link-inner" >England</span>
+<a class="nations-pseudo-nav__link" data-entityid="nireland_nav_link" href="/news/northern_ireland"><span class="nations-pseudo-nav__link-inner">N. Ireland</span></a>
+/news/northern_ireland
+<span class="nations-pseudo-nav__link-inner">N. Ireland</span>
+<a class="nations-pseudo-nav__link" data-entityid="scotland_nav_link" href="/news/scotland"><span class="nations-pseudo-nav__link-inner">Scotland</span></a>
+/news/scotland
+<span class="nations-pseudo-nav__link-inner">Scotland</span>
+<a class="nations-pseudo-nav__link" data-entityid="alba_nav_link" href="/naidheachdan"><span class="nations-pseudo-nav__link-inner">Alba</span></a>
+/naidheachdan
+<span class="nations-pseudo-nav__link-inner">Alba</span>
+<a class="nations-pseudo-nav__link" data-entityid="wales_nav_link" href="/news/wales"><span class="nations-pseudo-nav__link-inner">Wales</span></a>
+/news/wales
+<span class="nations-pseudo-nav__link-inner">Wales</span>
+<a class="nations-pseudo-nav__link" data-entityid="cymru_nav_link" href="/cymrufyw"><span class="nations-pseudo-nav__link-inner">Cymru</span></a>
+/cymrufyw
+<span class="nations-pseudo-nav__link-inner">Cymru</span>
+<a href="/news">Top Stories</a>
+/news
+Top Stories
+<a href="/news/popular/read">Most Read</a>
+/news/popular/read
+Most Read
+<a href="/news/election/us2016" class="mini-info-list__section" data-entityid="section-label">US Election 2016</a>
+/news/election/us2016
+US Election 2016
+<a href="/news/world-us-canada-37481070" class="links-list__link"> Who won the debate?</a>
+/news/world-us-canada-37481070
+ Who won the debate?
+<a href="/news/election-us-2016-37480990" class="links-list__link"> Reality Check: Clinton v Trump</a>
+/news/election-us-2016-37480990
+ Reality Check: Clinton v Trump
+<a href="/news/blogs-trending-37472503" class="links-list__link"> Five Twitter takeaways</a>
+/news/blogs-trending-37472503
+ Five Twitter takeaways
+<a href="/news/election-us-2016-37468188" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Clinton and Trump clash in first TV duel</a>
+/news/election-us-2016-37468188
+Full article Clinton and Trump clash in first TV duel
+<a href="http://www.bbc.co.uk/news/election/us2016" class="group-title__link">US election debate</a>
+http://www.bbc.co.uk/news/election/us2016
+US election debate
+<a href="/news/world-us-canada-37481070" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Analysis: Who won the debate?</a>
+/news/world-us-canada-37481070
+Full article Analysis: Who won the debate?
+<a href="/news/election-us-2016-37481754" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Four ways gender played a role in debate</a>
+/news/election-us-2016-37481754
+Full article Four ways gender played a role in debate
+<a href="/news/election-us-2016-37481531" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article What did black voters think?</a>
+/news/election-us-2016-37481531
+Full article What did black voters think?
+<a href="/news/world-us-canada-35356941" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article How does the election work?</a>
+/news/world-us-canada-35356941
+Full article How does the election work?
+<a href="/sport/football" class="mini-info-list__section" data-entityid="section-label">Football</a>
+/sport/football
+Football
+<a href="/sport/football/37479135" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article   FA to investigate Allardyce allegations</a>
+/sport/football/37479135
+Full article   FA to investigate Allardyce allegations
+<a href="/news/uk" class="mini-info-list__section" data-entityid="section-label">UK</a>
+/news/uk
+UK
+<a href="/news/uk-37481440" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article   Cambridges visit remote forest community</a>
+/news/uk-37481440
+Full article   Cambridges visit remote forest community
+<a href="/news/scotland" class="mini-info-list__section" data-entityid="section-label">Scotland</a>
+/news/scotland
+Scotland
+<a href="/news/uk-scotland-37474396" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article First US shale gas arrives in UK</a>
+/news/uk-scotland-37474396
+Full article First US shale gas arrives in UK
+<a href="/news/politics" class="mini-info-list__section" data-entityid="section-label">UK Politics</a>
+/news/politics
+UK Politics
+<a href="/news/uk-politics-37475733" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Labour to set out childcare 'mission'</a>
+/news/uk-politics-37475733
+Full article Labour to set out childcare 'mission'
+<a href="/news/england/stoke_and_staffordshire" class="mini-info-list__section" data-entityid="section-label">Stoke &amp; Staffordshire</a>
+/news/england/stoke_and_staffordshire
+Stoke &amp; Staffordshire
+<a href="/news/uk-england-stoke-staffordshire-37481825" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Alton Towers operator to be sentenced</a>
+/news/uk-england-stoke-staffordshire-37481825
+Full article Alton Towers operator to be sentenced
+<a href="/news/world/us_and_canada" class="mini-info-list__section" data-entityid="section-label">US &amp; Canada</a>
+/news/world/us_and_canada
+US &amp; Canada
+<a href="/news/world-us-canada-37480725" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article US gun suspect 'admits' rampage</a>
+/news/world-us-canada-37480725
+Full article US gun suspect 'admits' rampage
+<a href="/news/business" class="mini-info-list__section" data-entityid="section-label">Business</a>
+/news/business
+Business
+<a href="/news/business-37471397" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Over-50s 'spending more on holidays'</a>
+/news/business-37471397
+Full article Over-50s 'spending more on holidays'
+<a href="/news/uk" class="mini-info-list__section" data-entityid="section-label">UK</a>
+/news/uk
+UK
+<a href="/news/uk-37475055" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Outdated microchips leave dogs unclaimed</a>
+/news/uk-37475055
+Full article Outdated microchips leave dogs unclaimed
+<a href="/news/business" class="mini-info-list__section" data-entityid="section-label">Business</a>
+/news/business
+Business
+<a href="/news/business-37476335" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Customers 'bewildered' over data use</a>
+/news/business-37476335
+Full article Customers 'bewildered' over data use
+<a href="/news/entertainment_and_arts" class="mini-info-list__section" data-entityid="section-label">Entertainment &amp; Arts</a>
+/news/entertainment_and_arts
+Entertainment &amp; Arts
+<a href="/news/entertainment-arts-37477934" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Stars to pay tribute to Sir Terry Wogan</a>
+/news/entertainment-arts-37477934
+Full article Stars to pay tribute to Sir Terry Wogan
+<a href="/news/entertainment_and_arts" class="mini-info-list__section" data-entityid="section-label">Entertainment &amp; Arts</a>
+/news/entertainment_and_arts
+Entertainment &amp; Arts
+<a href="/news/entertainment-arts-37477229" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article BBC iPlayer login required from 2017</a>
+/news/entertainment-arts-37477229
+Full article BBC iPlayer login required from 2017
+<a href="/news/magazine" class="titanis__section-link" data-entityid="section-label"><span class="badge-text-only badge-text-only--section">Magazine</span></a>
+/news/magazine
+<span class="badge-text-only badge-text-only--section">Magazine</span>
+<a href="/news/magazine-37444982" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article The rest secret</a>
+/news/magazine-37444982
+Full article The rest secret
+<a href="/news/election-us-2016-37481535" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Key moments from Clinton-Trump debate</a>
+/news/election-us-2016-37481535
+Full article Key moments from Clinton-Trump debate
+<a href="/news/world-us-canada-37480901" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article 'There is something he is hiding'</a>
+/news/world-us-canada-37480901
+Full article 'There is something he is hiding'
+<a href="/news/world-us-canada-37479586" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Nafta : 'Single worse deal ever approved'</a>
+/news/world-us-canada-37479586
+Full article Nafta : 'Single worse deal ever approved'
+<a href="/news/world-us-canada-37480905" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article 'Have to get tough on cyber warfare'</a>
+/news/world-us-canada-37480905
+Full article 'Have to get tough on cyber warfare'
+<a href="/news/37480903" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Stop-and-frisk big point of dispute</a>
+/news/37480903
+Full article Stop-and-frisk big point of dispute
+<a href="/news/election-us-2016-37481073" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Trump calls Clinton emails 'disgraceful'</a>
+/news/election-us-2016-37481073
+Full article Trump calls Clinton emails 'disgraceful'
+<a class="spoonbill__link" href="/news/video_and_audio/headlines" data-entityid="headlines-promo-compact-tablet">More Video Top Stories</a>
+/news/video_and_audio/headlines
+More Video Top Stories
+<a href="http://www.bbc.co.uk/news/blogs/the_papers" class="group-title__link">The Papers</a>
+http://www.bbc.co.uk/news/blogs/the_papers
+The Papers
+<a href="/news/blogs-the-papers-37479489" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Labour's 'La-La-Land' and Big Sam probe</a>
+/news/blogs-the-papers-37479489
+Full article Labour's 'La-La-Land' and Big Sam probe
+<a href="http://www.bbc.co.uk/news/the_reporters" class="group-title__link">The Reporters</a>
+http://www.bbc.co.uk/news/the_reporters
+The Reporters
+<a href="/news/correspondents/rorycellanjones" class="byline__name-link"><span class="byline__name">Rory Cellan-Jones</span></a>
+/news/correspondents/rorycellanjones
+<span class="byline__name">Rory Cellan-Jones</span>
+<a href="/news/technology" class="mini-info-list__section" data-entityid="section-label">Technology</a>
+/news/technology
+Technology
+<a href="/news/technology-37475564" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Is this the moment e-sports comes of age?</a>
+/news/technology-37475564
+Full article Is this the moment e-sports comes of age?
+<a href="/news/correspondents/laurakuenssberg" class="byline__name-link"><span class="byline__name">Laura Kuenssberg</span></a>
+/news/correspondents/laurakuenssberg
+<span class="byline__name">Laura Kuenssberg</span>
+<a href="/news/politics" class="mini-info-list__section" data-entityid="section-label">UK Politics</a>
+/news/politics
+UK Politics
+<a href="/news/uk-politics-37475727" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article The s-word and keeping the show afloat</a>
+/news/uk-politics-37475727
+Full article The s-word and keeping the show afloat
+<a href="/news/world/europe" class="mini-info-list__section" data-entityid="section-label">Europe</a>
+/news/world/europe
+Europe
+<a href="/news/world-europe-37475086" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Bethany Bell: Migrants' grim odyssey ends in Italian city of Udine</a>
+/news/world-europe-37475086
+Full article Bethany Bell: Migrants' grim odyssey ends in Italian city of Udine
+<a href="/news/magazine" class="mini-info-list__section" data-entityid="section-label">Magazine</a>
+/news/magazine
+Magazine
+<a href="/news/magazine-37456853" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Bonfire of letters</a>
+/news/magazine-37456853
+Full article Bonfire of letters
+<a href="/news/uk" class="mini-info-list__section" data-entityid="section-label">UK</a>
+/news/uk
+UK
+<a href="/news/uk-37472233" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Disposable women</a>
+/news/uk-37472233
+Full article Disposable women
+<a href="/news/world/africa" class="mini-info-list__section" data-entityid="section-label">Africa</a>
+/news/world/africa
+Africa
+<a href="/news/world-africa-37438360" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article The vandal of Timbuktu</a>
+/news/world-africa-37438360
+Full article The vandal of Timbuktu
+<a href="/news/in_pictures" class="mini-info-list__section" data-entityid="section-label">In Pictures</a>
+/news/in_pictures
+In Pictures
+<a href="/news/in-pictures-37471476" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Faceless London</a>
+/news/in-pictures-37471476
+Full article Faceless London
+<a href="/news/england" class="mini-info-list__section" data-entityid="section-label">England</a>
+/news/england
+England
+<a href="/news/uk-england-london-37406707" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Off-screen dwellings</a>
+/news/uk-england-london-37406707
+Full article Off-screen dwellings
+<a href="/news/business" class="mini-info-list__section" data-entityid="section-label">Business</a>
+/news/business
+Business
+<a href="/news/business-37470667" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article 'People are dying'</a>
+/news/business-37470667
+Full article 'People are dying'
+<a href="http://www.bbc.co.uk/news/explainers" class="group-title__link">Explainers</a>
+http://www.bbc.co.uk/news/explainers
+Explainers
+<a href="/news/politics" class="mini-info-list__section" data-entityid="section-label">UK Politics</a>
+/news/politics
+UK Politics
+<a href="/news/uk-politics-37428864" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Could Brexit bring back the royal yacht?</a>
+/news/uk-politics-37428864
+Full article Could Brexit bring back the royal yacht?
+<a href="/news/technology" class="mini-info-list__section" data-entityid="section-label">Technology</a>
+/news/technology
+Technology
+<a href="/news/technology-37474595" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Sale of Kodi TV boxes faces legal test</a>
+/news/technology-37474595
+Full article Sale of Kodi TV boxes faces legal test
+<a href="/news/world/africa" class="mini-info-list__section" data-entityid="section-label">Africa</a>
+/news/world/africa
+Africa
+<a href="/news/world-africa-37476453" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Dead or alive? The six lives of Boko Haram's leader</a>
+/news/world-africa-37476453
+Full article Dead or alive? The six lives of Boko Haram's leader
+<a href="http://m.bbc.co.uk/sport" class="group-title__link">Sport</a>
+http://m.bbc.co.uk/sport
+Sport
+<a href="/sport/cycling" class="mini-info-list__section" data-entityid="section-label">Cycling</a>
+/sport/cycling
+Cycling
+<a href="/sport/cycling/37472728" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Brailsford defends Wiggins' use of TUEs</a>
+/sport/cycling/37472728
+Full article Brailsford defends Wiggins' use of TUEs
+<a href="/sport/0/" class="mini-info-list__section" data-entityid="section-label">Sport</a>
+/sport/0/
+Sport
+<a href="/sport/live/37157346" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Sportsday - Allardyce latest &amp; football news</a>
+/sport/live/37157346
+Full article Sportsday - Allardyce latest &amp; football news
+<a href="/sport/golf" class="mini-info-list__section" data-entityid="section-label">Golf</a>
+/sport/golf
+Golf
+<a href="/sport/golf/37479429" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Watson named US Ryder Cup vice-captain</a>
+/sport/golf/37479429
+Full article Watson named US Ryder Cup vice-captain
+<a href="/sport/football" class="mini-info-list__section" data-entityid="section-label">Football</a>
+/sport/football
+Football
+<a href="/sport/football/37461665" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Focus Forum: 'Porto will be tough test for Leicester'</a>
+/sport/football/37461665
+Full article Focus Forum: 'Porto will be tough test for Leicester'
+<a href="/weather" class="local-weather__link right-arrow">
+            Weather        </a>
+/weather
+
+            Weather        
+<a href="/weather" class="weather-forecast"></a>
+/weather
+
+<a href="/ws/languages" class="group-title__link">BBC News in other languages</a>
+/ws/languages
+BBC News in other languages
+<a href="/news/election-us-2016-37481535" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Key moments from Clinton-Trump debate</a>
+/news/election-us-2016-37481535
+Full article Key moments from Clinton-Trump debate
+<a href="/news/world-us-canada-37480901" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article 'There is something he is hiding'</a>
+/news/world-us-canada-37480901
+Full article 'There is something he is hiding'
+<a href="/news/world-us-canada-37479586" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Nafta : 'Single worse deal ever approved'</a>
+/news/world-us-canada-37479586
+Full article Nafta : 'Single worse deal ever approved'
+<a href="/news/world-us-canada-37480905" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article 'Have to get tough on cyber warfare'</a>
+/news/world-us-canada-37480905
+Full article 'Have to get tough on cyber warfare'
+<a href="/news/37480903" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Stop-and-frisk big point of dispute</a>
+/news/37480903
+Full article Stop-and-frisk big point of dispute
+<a href="/news/election-us-2016-37481073" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Trump calls Clinton emails 'disgraceful'</a>
+/news/election-us-2016-37481073
+Full article Trump calls Clinton emails 'disgraceful'
+<a class="spoonbill__link" href="/news/video_and_audio/headlines" data-entityid="headlines-promo-wide">More Video Top Stories</a>
+/news/video_and_audio/headlines
+More Video Top Stories
+<a href="/news/have_your_say" class="group-title__link">Share with BBC News</a>
+/news/have_your_say
+Share with BBC News
+<a href="mailto:haveyoursay@bbc.co.uk" class="simple-list__link">haveyoursay@bbc.co.uk</a>
+mailto:haveyoursay@bbc.co.uk
+haveyoursay@bbc.co.uk
+<a href="https://twitter.com/BBC_HaveYourSay" class="simple-list__link">Twitter</a>
+https://twitter.com/BBC_HaveYourSay
+Twitter
+<a class="bananaquit__item-link bananaquit__item-link--facebook" href="https://www.facebook.com/bbcnews">Facebook</a>
+https://www.facebook.com/bbcnews
+Facebook
+<a class="bananaquit__item-link bananaquit__item-link--twitter" href="https://twitter.com/BBCNews">Twitter</a>
+https://twitter.com/BBCNews
+Twitter
+<a class="junglefowl__link" href="http://www.bbc.co.uk/news/help/16617948">Get BBC News in your inbox</a>
+http://www.bbc.co.uk/news/help/16617948
+Get BBC News in your inbox
+<a class="junglefowl__link" href="http://feeds.bbci.co.uk/news/rss.xml?edition=uk">RSS News Feed</a>
+http://feeds.bbci.co.uk/news/rss.xml?edition=uk
+RSS News Feed
+<a href="http://www.bbc.co.uk/guides/zwjkcwx" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Beyond cute</a>
+http://www.bbc.co.uk/guides/zwjkcwx
+Full article Beyond cute
+<a href="http://www.bbc.co.uk/programmes/p048dzhv?intc_type=promo&amp;intc_location=news&amp;intc_campaign=ambulance&amp;intc_linkname=bbcone_fac_trail1" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Calling 999</a>
+http://www.bbc.co.uk/programmes/p048dzhv?intc_type=promo&amp;intc_location=news&amp;intc_campaign=ambulance&amp;intc_linkname=bbcone_fac_trail1
+Full article Calling 999
+<a href="/news/uk"><span>UK Home</span></a>
+/news/uk
+<span>UK Home</span>
+<a href="/news/england"><span>England</span></a>
+/news/england
+<span>England</span>
+<a href="/news/northern_ireland"><span>N. Ireland</span></a>
+/news/northern_ireland
+<span>N. Ireland</span>
+<a href="/news/scotland"><span>Scotland</span></a>
+/news/scotland
+<span>Scotland</span>
+<a href="/naidheachdan"><span>Alba</span></a>
+/naidheachdan
+<span>Alba</span>
+<a href="/news/wales"><span>Wales</span></a>
+/news/wales
+<span>Wales</span>
+<a href="/cymrufyw"><span>Cymru</span></a>
+/cymrufyw
+<span>Cymru</span>
+<a href="/news/world"><span>World Home</span></a>
+/news/world
+<span>World Home</span>
+<a href="/news/world/africa"><span>Africa</span></a>
+/news/world/africa
+<span>Africa</span>
+<a href="/news/world/asia"><span>Asia</span></a>
+/news/world/asia
+<span>Asia</span>
+<a href="/news/world/australia"><span>Australia</span></a>
+/news/world/australia
+<span>Australia</span>
+<a href="/news/world/europe"><span>Europe</span></a>
+/news/world/europe
+<span>Europe</span>
+<a href="/news/world/latin_america"><span>Latin America</span></a>
+/news/world/latin_america
+<span>Latin America</span>
+<a href="/news/world/middle_east"><span>Middle East</span></a>
+/news/world/middle_east
+<span>Middle East</span>
+<a href="/news/world/us_and_canada"><span>US &amp; Canada</span></a>
+/news/world/us_and_canada
+<span>US &amp; Canada</span>
+<a href="/news/business"><span>Business Home</span></a>
+/news/business
+<span>Business Home</span>
+<a href="/news/business/your_money"><span>Your Money</span></a>
+/news/business/your_money
+<span>Your Money</span>
+<a href="http://www.bbc.co.uk/news/business/market_data"><span>Market Data</span></a>
+http://www.bbc.co.uk/news/business/market_data
+<span>Market Data</span>
+<a href="/news/business/markets"><span>Markets</span></a>
+/news/business/markets
+<span>Markets</span>
+<a href="/news/business/companies"><span>Companies</span></a>
+/news/business/companies
+<span>Companies</span>
+<a href="/news/business/economy"><span>Economy</span></a>
+/news/business/economy
+<span>Economy</span>
+<a href="/news/politics"><span>Politics Home</span></a>
+/news/politics
+<span>Politics Home</span>
+<a href="/news/politics/parliaments"><span>Parliaments</span></a>
+/news/politics/parliaments
+<span>Parliaments</span>
+<a href="/news/politics/uk_leaves_the_eu"><span>Brexit</span></a>
+/news/politics/uk_leaves_the_eu
+<span>Brexit</span>
+<a href="/news/politics/eu_referendum"><span>EU Referendum</span></a>
+/news/politics/eu_referendum
+<span>EU Referendum</span>
+<a href="/news/election/us2016"><span>US Election 2016</span></a>
+/news/election/us2016
+<span>US Election 2016</span>
+<a href="/news/education"><span>Education Home</span></a>
+/news/education
+<span>Education Home</span>
+<a href="/schoolreport"><span>School Report</span></a>
+/schoolreport
+<span>School Report</span>
+<a href="/news/business-12686570"><span>Global Education</span></a>
+/news/business-12686570
+<span>Global Education</span>
+<a href="http://www.bbc.co.uk/news/10628994" class="blue-tit__list-item-link mobile">On your mobile</a>
+http://www.bbc.co.uk/news/10628994
+On your mobile
+<a href="http://www.bbc.co.uk/news/help-17655000" class="blue-tit__list-item-link connected-tv">On your connected tv</a>
+http://www.bbc.co.uk/news/help-17655000
+On your connected tv
+<a href="http://www.bbc.co.uk/news/10628323" class="blue-tit__list-item-link newsletter">Get news alerts</a>
+http://www.bbc.co.uk/news/10628323
+Get news alerts
+<a href="http://www.bbc.co.uk/news/20039682" class="blue-tit__list-item-link contact-us">Contact BBC News</a>
+http://www.bbc.co.uk/news/20039682
+Contact BBC News
+<a href="http://www.bbc.co.uk/news/">News</a>
+http://www.bbc.co.uk/news/
+News
+<a href="http://www.bbc.com/news/">News</a>
+http://www.bbc.com/news/
+News
+<a href="/sport/">Sport</a>
+/sport/
+Sport
+<a href="/weather/">Weather</a>
+/weather/
+Weather
+<a href="http://shop.bbc.com/">Shop</a>
+http://shop.bbc.com/
+Shop
+<a href="http://www.bbc.com/earth/">Earth</a>
+http://www.bbc.com/earth/
+Earth
+<a href="http://www.bbc.com/travel/">Travel</a>
+http://www.bbc.com/travel/
+Travel
+<a href="http://www.bbc.com/capital/">Capital</a>
+http://www.bbc.com/capital/
+Capital
+<a href="/iplayer/">iPlayer</a>
+/iplayer/
+iPlayer
+<a href="http://www.bbc.com/culture/">Culture</a>
+http://www.bbc.com/culture/
+Culture
+<a href="http://www.bbc.com/autos/">Autos</a>
+http://www.bbc.com/autos/
+Autos
+<a href="http://www.bbc.com/future/">Future</a>
+http://www.bbc.com/future/
+Future
+<a href="/tv/">TV</a>
+/tv/
+TV
+<a href="/radio/">Radio</a>
+/radio/
+Radio
+<a href="/cbbc">CBBC</a>
+/cbbc
+CBBC
+<a href="/cbeebies">CBeebies</a>
+/cbeebies
+CBeebies
+<a href="/food/">Food</a>
+/food/
+Food
+<a href="/iwonder">iWonder</a>
+/iwonder
+iWonder
+<a href="/education">Bitesize</a>
+/education
+Bitesize
+<a href="/travel/">Travel</a>
+/travel/
+Travel
+<a href="/music/">Music</a>
+/music/
+Music
+<a href="http://www.bbc.com/earth/">Earth</a>
+http://www.bbc.com/earth/
+Earth
+<a href="/arts/">Arts</a>
+/arts/
+Arts
+<a href="/makeitdigital">Make It Digital</a>
+/makeitdigital
+Make It Digital
+<a href="/taster">Taster</a>
+/taster
+Taster
+<a href="/nature/">Nature</a>
+/nature/
+Nature
+<a href="/local/">Local</a>
+/local/
+Local
+<a href="/terms/">Terms of Use</a>
+/terms/
+Terms of Use
+<a href="/aboutthebbc/">About the BBC</a>
+/aboutthebbc/
+About the BBC
+<a href="/privacy/">Privacy Policy</a>
+/privacy/
+Privacy Policy
+<a href="/privacy/cookies/about">Cookies</a>
+/privacy/cookies/about
+Cookies
+<a href="/accessibility/">Accessibility Help</a>
+/accessibility/
+Accessibility Help
+<a href="/guidance/">Parental Guidance</a>
+/guidance/
+Parental Guidance
+<a href="/contact/">Contact the BBC</a>
+/contact/
+Contact the BBC
+<a href="http://advertising.bbcworldwide.com/">Advertise with us</a>
+http://advertising.bbcworldwide.com/
+Advertise with us
+<a href="/privacy/cookies/international/">Ad choices</a>
+/privacy/cookies/international/
+Ad choices
+<a href="/help/web/links/" class="orb-hilight">Read about our approach to external linking.</a>
+/help/web/links/
+Read about our approach to external linking.

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\content_new.png",
+        "source": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\drawable-hdpi\\content_new.png"
+    },
+    {
+        "merged": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\content_edit.png",
+        "source": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\drawable-hdpi\\content_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\content_new_dark.png",
+        "source": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\drawable-hdpi\\content_new_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textview_border.xml",
+        "source": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\drawable-hdpi\\textview_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\content_remove.png",
+        "source": "C:\\Users\\l010516c\\Downloads\\ContactApp\\ContactApp\\app\\src\\main\\res\\drawable-hdpi\\content_remove.png"
+    }
+]
