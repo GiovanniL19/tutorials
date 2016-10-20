@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Calculator
+//  Checklists
 //
-//  Created by Giovanni Lenguito on 10/10/2016.
+//  Created by Giovanni Lenguito on 17/10/2016.
 //  Copyright © 2016 Giovanni Lenguito. All rights reserved.
 //
 
@@ -16,10 +16,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
-        
-        //Updates status bar to display light icons
-        UIApplication.shared.statusBarStyle = .lightContent
-        
         return true
     }
 

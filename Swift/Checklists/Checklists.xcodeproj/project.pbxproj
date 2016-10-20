@@ -7,29 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F50FA6FE1DAF9CB2001C4524 /* HistoryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F50FA6FD1DAF9CB2001C4524 /* HistoryTableViewCell.swift */; };
-		F50FA7001DAF9D82001C4524 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = F50FA6FF1DAF9D82001C4524 /* History.swift */; };
-		F50FA7021DAF9E88001C4524 /* HistoryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F50FA7011DAF9E88001C4524 /* HistoryTableViewController.swift */; };
-		F5F594C81DABD508008A6BFB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5F594C71DABD508008A6BFB /* AppDelegate.swift */; };
-		F5F594CA1DABD508008A6BFB /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5F594C91DABD508008A6BFB /* MainViewController.swift */; };
-		F5F594CD1DABD508008A6BFB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5F594CB1DABD508008A6BFB /* Main.storyboard */; };
-		F5F594CF1DABD508008A6BFB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5F594CE1DABD508008A6BFB /* Assets.xcassets */; };
+		F56A84D81DB5082000B4B73E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F56A84D71DB5082000B4B73E /* AppDelegate.swift */; };
+		F56A84DA1DB5082000B4B73E /* ChecklistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F56A84D91DB5082000B4B73E /* ChecklistViewController.swift */; };
+		F56A84DD1DB5082000B4B73E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F56A84DB1DB5082000B4B73E /* Main.storyboard */; };
+		F56A84DF1DB5082000B4B73E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F56A84DE1DB5082000B4B73E /* Assets.xcassets */; };
+		F56A84E21DB5082000B4B73E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F56A84E01DB5082000B4B73E /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F50FA6FD1DAF9CB2001C4524 /* HistoryTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HistoryTableViewCell.swift; sourceTree = "<group>"; };
-		F50FA6FF1DAF9D82001C4524 /* History.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
-		F50FA7011DAF9E88001C4524 /* HistoryTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HistoryTableViewController.swift; sourceTree = "<group>"; };
-		F5F594C41DABD508008A6BFB /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F5F594C71DABD508008A6BFB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F5F594C91DABD508008A6BFB /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
-		F5F594CC1DABD508008A6BFB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		F5F594CE1DABD508008A6BFB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		F5F594D31DABD508008A6BFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F56A84D41DB5082000B4B73E /* Checklists.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Checklists.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F56A84D71DB5082000B4B73E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		F56A84D91DB5082000B4B73E /* ChecklistViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistViewController.swift; sourceTree = "<group>"; };
+		F56A84DC1DB5082000B4B73E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F56A84DE1DB5082000B4B73E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F56A84E11DB5082000B4B73E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		F56A84E31DB5082000B4B73E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F5F594C11DABD508008A6BFB /* Frameworks */ = {
+		F56A84D11DB5082000B4B73E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,74 +35,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F5F594BB1DABD508008A6BFB = {
+		F56A84CB1DB5082000B4B73E = {
 			isa = PBXGroup;
 			children = (
-				F5F594C61DABD508008A6BFB /* Calculator */,
-				F5F594C51DABD508008A6BFB /* Products */,
+				F56A84D61DB5082000B4B73E /* Checklists */,
+				F56A84D51DB5082000B4B73E /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F5F594C51DABD508008A6BFB /* Products */ = {
+		F56A84D51DB5082000B4B73E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F5F594C41DABD508008A6BFB /* Calculator.app */,
+				F56A84D41DB5082000B4B73E /* Checklists.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F5F594C61DABD508008A6BFB /* Calculator */ = {
+		F56A84D61DB5082000B4B73E /* Checklists */ = {
 			isa = PBXGroup;
 			children = (
-				F50FA6FD1DAF9CB2001C4524 /* HistoryTableViewCell.swift */,
-				F5F594C71DABD508008A6BFB /* AppDelegate.swift */,
-				F5F594C91DABD508008A6BFB /* MainViewController.swift */,
-				F5F594CB1DABD508008A6BFB /* Main.storyboard */,
-				F5F594CE1DABD508008A6BFB /* Assets.xcassets */,
-				F5F594D31DABD508008A6BFB /* Info.plist */,
-				F50FA6FF1DAF9D82001C4524 /* History.swift */,
-				F50FA7011DAF9E88001C4524 /* HistoryTableViewController.swift */,
+				F56A84D71DB5082000B4B73E /* AppDelegate.swift */,
+				F56A84D91DB5082000B4B73E /* ChecklistViewController.swift */,
+				F56A84DB1DB5082000B4B73E /* Main.storyboard */,
+				F56A84DE1DB5082000B4B73E /* Assets.xcassets */,
+				F56A84E01DB5082000B4B73E /* LaunchScreen.storyboard */,
+				F56A84E31DB5082000B4B73E /* Info.plist */,
 			);
-			path = Calculator;
+			path = Checklists;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F5F594C31DABD508008A6BFB /* Calculator */ = {
+		F56A84D31DB5082000B4B73E /* Checklists */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F5F594D61DABD508008A6BFB /* Build configuration list for PBXNativeTarget "Calculator" */;
+			buildConfigurationList = F56A84E61DB5082000B4B73E /* Build configuration list for PBXNativeTarget "Checklists" */;
 			buildPhases = (
-				F5F594C01DABD508008A6BFB /* Sources */,
-				F5F594C11DABD508008A6BFB /* Frameworks */,
-				F5F594C21DABD508008A6BFB /* Resources */,
+				F56A84D01DB5082000B4B73E /* Sources */,
+				F56A84D11DB5082000B4B73E /* Frameworks */,
+				F56A84D21DB5082000B4B73E /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Calculator;
-			productName = Calculator;
-			productReference = F5F594C41DABD508008A6BFB /* Calculator.app */;
+			name = Checklists;
+			productName = Checklists;
+			productReference = F56A84D41DB5082000B4B73E /* Checklists.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F5F594BC1DABD508008A6BFB /* Project object */ = {
+		F56A84CC1DB5082000B4B73E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0800;
 				LastUpgradeCheck = 0800;
 				ORGANIZATIONNAME = "Giovanni Lenguito";
 				TargetAttributes = {
-					F5F594C31DABD508008A6BFB = {
+					F56A84D31DB5082000B4B73E = {
 						CreatedOnToolsVersion = 8.0;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = F5F594BF1DABD508008A6BFB /* Build configuration list for PBXProject "Calculator" */;
+			buildConfigurationList = F56A84CF1DB5082000B4B73E /* Build configuration list for PBXProject "Checklists" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -114,56 +108,62 @@
 				en,
 				Base,
 			);
-			mainGroup = F5F594BB1DABD508008A6BFB;
-			productRefGroup = F5F594C51DABD508008A6BFB /* Products */;
+			mainGroup = F56A84CB1DB5082000B4B73E;
+			productRefGroup = F56A84D51DB5082000B4B73E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F5F594C31DABD508008A6BFB /* Calculator */,
+				F56A84D31DB5082000B4B73E /* Checklists */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F5F594C21DABD508008A6BFB /* Resources */ = {
+		F56A84D21DB5082000B4B73E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F5F594CF1DABD508008A6BFB /* Assets.xcassets in Resources */,
-				F5F594CD1DABD508008A6BFB /* Main.storyboard in Resources */,
+				F56A84E21DB5082000B4B73E /* LaunchScreen.storyboard in Resources */,
+				F56A84DF1DB5082000B4B73E /* Assets.xcassets in Resources */,
+				F56A84DD1DB5082000B4B73E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F5F594C01DABD508008A6BFB /* Sources */ = {
+		F56A84D01DB5082000B4B73E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F50FA6FE1DAF9CB2001C4524 /* HistoryTableViewCell.swift in Sources */,
-				F5F594CA1DABD508008A6BFB /* MainViewController.swift in Sources */,
-				F50FA7001DAF9D82001C4524 /* History.swift in Sources */,
-				F5F594C81DABD508008A6BFB /* AppDelegate.swift in Sources */,
-				F50FA7021DAF9E88001C4524 /* HistoryTableViewController.swift in Sources */,
+				F56A84DA1DB5082000B4B73E /* ChecklistViewController.swift in Sources */,
+				F56A84D81DB5082000B4B73E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		F5F594CB1DABD508008A6BFB /* Main.storyboard */ = {
+		F56A84DB1DB5082000B4B73E /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F5F594CC1DABD508008A6BFB /* Base */,
+				F56A84DC1DB5082000B4B73E /* Base */,
 			);
 			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		F56A84E01DB5082000B4B73E /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F56A84E11DB5082000B4B73E /* Base */,
+			);
+			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		F5F594D41DABD508008A6BFB /* Debug */ = {
+		F56A84E41DB5082000B4B73E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -212,7 +212,7 @@
 			};
 			name = Debug;
 		};
-		F5F594D51DABD508008A6BFB /* Release */ = {
+		F56A84E51DB5082000B4B73E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -254,25 +254,25 @@
 			};
 			name = Release;
 		};
-		F5F594D71DABD508008A6BFB /* Debug */ = {
+		F56A84E71DB5082000B4B73E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = Calculator/Info.plist;
+				INFOPLIST_FILE = Checklists/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = uk.co.giovannilenguito.Calculator;
+				PRODUCT_BUNDLE_IDENTIFIER = uk.co.giovannilenguito.Checklists;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
-		F5F594D81DABD508008A6BFB /* Release */ = {
+		F56A84E81DB5082000B4B73E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = Calculator/Info.plist;
+				INFOPLIST_FILE = Checklists/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = uk.co.giovannilenguito.Calculator;
+				PRODUCT_BUNDLE_IDENTIFIER = uk.co.giovannilenguito.Checklists;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -281,25 +281,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F5F594BF1DABD508008A6BFB /* Build configuration list for PBXProject "Calculator" */ = {
+		F56A84CF1DB5082000B4B73E /* Build configuration list for PBXProject "Checklists" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F5F594D41DABD508008A6BFB /* Debug */,
-				F5F594D51DABD508008A6BFB /* Release */,
+				F56A84E41DB5082000B4B73E /* Debug */,
+				F56A84E51DB5082000B4B73E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F5F594D61DABD508008A6BFB /* Build configuration list for PBXNativeTarget "Calculator" */ = {
+		F56A84E61DB5082000B4B73E /* Build configuration list for PBXNativeTarget "Checklists" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F5F594D71DABD508008A6BFB /* Debug */,
-				F5F594D81DABD508008A6BFB /* Release */,
+				F56A84E71DB5082000B4B73E /* Debug */,
+				F56A84E81DB5082000B4B73E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = F5F594BC1DABD508008A6BFB /* Project object */;
+	rootObject = F56A84CC1DB5082000B4B73E /* Project object */;
 }
