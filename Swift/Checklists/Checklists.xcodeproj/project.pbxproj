@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F568B9FF1DBB85B000C63F85 /* ChecklistItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = F568B9FE1DBB85B000C63F85 /* ChecklistItem.swift */; };
 		F56A84D81DB5082000B4B73E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F56A84D71DB5082000B4B73E /* AppDelegate.swift */; };
 		F56A84DA1DB5082000B4B73E /* ChecklistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F56A84D91DB5082000B4B73E /* ChecklistViewController.swift */; };
 		F56A84DD1DB5082000B4B73E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F56A84DB1DB5082000B4B73E /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F568B9FE1DBB85B000C63F85 /* ChecklistItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ChecklistItem.swift; path = ../ChecklistItem.swift; sourceTree = "<group>"; };
 		F56A84D41DB5082000B4B73E /* Checklists.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Checklists.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F56A84D71DB5082000B4B73E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F56A84D91DB5082000B4B73E /* ChecklistViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		F56A84D61DB5082000B4B73E /* Checklists */ = {
 			isa = PBXGroup;
 			children = (
+				F568B9FE1DBB85B000C63F85 /* ChecklistItem.swift */,
 				F56A84D71DB5082000B4B73E /* AppDelegate.swift */,
 				F56A84D91DB5082000B4B73E /* ChecklistViewController.swift */,
 				F56A84DB1DB5082000B4B73E /* Main.storyboard */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F56A84DA1DB5082000B4B73E /* ChecklistViewController.swift in Sources */,
+				F568B9FF1DBB85B000C63F85 /* ChecklistItem.swift in Sources */,
 				F56A84D81DB5082000B4B73E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -297,6 +301,7 @@
 				F56A84E81DB5082000B4B73E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
