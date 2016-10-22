@@ -40,7 +40,7 @@
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                 </state>
                                                 <connections>
-                                                    <segue destination="gxZ-17-UoS" kind="presentation" modalTransitionStyle="coverVertical" id="yT9-qI-bC0"/>
+                                                    <segue destination="9HE-xU-cgU" kind="presentation" modalTransitionStyle="coverVertical" id="yT9-qI-bC0"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -368,32 +368,12 @@
             <objects>
                 <tableViewController id="gxZ-17-UoS" customClass="HistoryTableViewController" customModule="Calculator" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="90" sectionHeaderHeight="28" sectionFooterHeight="28" id="5F3-kb-Rcr" customClass="HistoryItem">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <rect key="frame" x="0.0" y="64" width="375" height="603"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                        <navigationBar key="tableHeaderView" contentMode="scaleToFill" translucent="NO" id="Q7t-dP-WfE">
-                            <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
-                            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
-                            <rect key="contentStretch" x="1" y="1" width="1" height="1"/>
-                            <color key="barTintColor" red="0.12604189020000001" green="0.13086949480000001" blue="0.12909174470000001" alpha="0.98396236800000003" colorSpace="custom" customColorSpace="sRGB"/>
-                            <textAttributes key="titleTextAttributes">
-                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                <offsetWrapper key="textShadowOffset" horizontal="0.0" vertical="0.0"/>
-                            </textAttributes>
-                            <items>
-                                <navigationItem id="x89-6I-NSk">
-                                    <barButtonItem key="leftBarButtonItem" title="Back" id="n4T-iZ-sI8">
-                                        <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                        <connections>
-                                            <segue destination="BYZ-38-t0r" kind="showDetail" id="flq-fL-8lB"/>
-                                        </connections>
-                                    </barButtonItem>
-                                </navigationItem>
-                            </items>
-                        </navigationBar>
                         <prototypes>
                             <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="HistoryItemTableViewCell" rowHeight="90" id="PNK-O8-FOs" customClass="HistoryTableViewCell" customModule="Calculator" customModuleProvider="target">
-                                <rect key="frame" x="0.0" y="72" width="375" height="90"/>
+                                <rect key="frame" x="0.0" y="28" width="375" height="90"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="PNK-O8-FOs" id="Kx1-3B-h5g">
                                     <frame key="frameInset" width="375" height="89.5"/>
@@ -426,8 +406,37 @@
                             <outlet property="delegate" destination="gxZ-17-UoS" id="9rc-WC-kht"/>
                         </connections>
                     </tableView>
+                    <toolbarItems/>
+                    <navigationItem key="navigationItem" id="puR-RH-W5V">
+                        <barButtonItem key="leftBarButtonItem" title="Back" id="n4T-iZ-sI8">
+                            <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            <connections>
+                                <segue destination="BYZ-38-t0r" kind="showDetail" id="flq-fL-8lB"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                    <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="2dj-Tl-oND" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1848.8" y="139.880059970015"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="Iyt-v3-pVo">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="9HE-xU-cgU" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" misplaced="YES" barStyle="black" translucent="NO" id="jlJ-GW-CKS">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" red="0.12549019607843137" green="0.12941176470588234" blue="0.12941176470588234" alpha="0.98040602992957748" colorSpace="custom" customColorSpace="sRGB"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="gxZ-17-UoS" kind="relationship" relationship="rootViewController" id="1jw-fU-hFR"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="OrW-AV-bzI" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="909.60000000000002" y="139.880059970015"/>
         </scene>

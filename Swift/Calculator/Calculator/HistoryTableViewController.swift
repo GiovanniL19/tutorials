@@ -14,19 +14,17 @@ class HistoryTableViewController: UITableViewController {
     var historyCollection = [History]()
     
     // MARK: Functions
-    func loadHistory(){
-        //Sample history
-        let historyItem = History(dateTime: "Friday 14th October at 12:00", calculation: "2 + 2 = 4")
-        let historyItem2 = History(dateTime: "Saturday 15th October at 13:00", calculation: "4 x 2 = 8")
-        let historyItem3 = History(dateTime: "Sunday 16th October at 09:00", calculation: "100 ÷ 2 = 50")
-
-        
-        historyCollection += [historyItem!, historyItem2!, historyItem3!]
+    func loadHistory() -> [History]? {
+        return NSKeyedUnarchiver.unarchiveObject(withFile: History.ArchiveURL.path) as? [History]
     }
-    
     override func viewDidLoad() {
         super.viewDidLoad()
-        loadHistory()
+        //set the list with history items from archive
+        if let savedHistory = loadHistory(){
+            historyCollection += savedHistory
+            print(savedHistory)
+        }
+        
         // Uncomment the following line to preserve selection between presentations
         // self.clearsSelectionOnViewWillAppear = false
 
@@ -57,32 +55,34 @@ class HistoryTableViewController: UITableViewController {
         
         // Fetches the appropriate meal for the data source layout.
         let history = historyCollection[indexPath.row]
-        cell.DateTime.text = history.dateTime
+        //cell.DateTime.text = String(history.dateTime)
         cell.Calculation.text = history.calculation
         
         return cell
     }
     
 
-    /*
+    
     // Override to support conditional editing of the table view.
     override func tableView(_ tableView: UITableView, canEditRowAt indexPath: IndexPath) -> Bool {
         // Return false if you do not want the specified item to be editable.
         return true
     }
-    */
+    
 
-    /*
+    
     // Override to support editing the table view.
     override func tableView(_ tableView: UITableView, commit editingStyle: UITableViewCellEditingStyle, forRowAt indexPath: IndexPath) {
         if editingStyle == .delete {
             // Delete the row from the data source
+            historyCollection.remove(at: indexPath.row)
+            saveHistory()
             tableView.deleteRows(at: [indexPath], with: .fade)
         } else if editingStyle == .insert {
             // Create a new instance of the appropriate class, insert it into the array, and add a new row to the table view
-        }    
+        }
     }
-    */
+    
 
     /*
     // Override to support rearranging the table view.
@@ -108,5 +108,16 @@ class HistoryTableViewController: UITableViewController {
         // Pass the selected object to the new view controller.
     }
     */
+    
+    //MARK: NSCoding
+    func saveHistory(){
+        let isSuccessfulSave = NSKeyedArchiver.archiveRootObject(historyCollection, toFile: History.ArchiveURL.path)
+        
+        if !isSuccessfulSave{
+            print("Error saving history item")
+        }else{
+            print("Saved History Item")
+        }
+    }
 
 }
