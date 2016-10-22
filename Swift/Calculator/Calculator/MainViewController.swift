@@ -142,7 +142,9 @@ class MainViewController: UIViewController {
     @IBAction func del(_ sender: AnyObject) {
         //Deletes last value entered
         let length:Int = display.text!.characters.count as Int
-        calculation.remove(at: calculation.index(before: calculation.endIndex))
+        if calculation != ""{
+            calculation.remove(at: calculation.index(before: calculation.endIndex))
+        }
         
         typingInProgress = true
         
