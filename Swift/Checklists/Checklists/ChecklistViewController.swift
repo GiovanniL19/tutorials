@@ -12,6 +12,32 @@ class ChecklistViewController: UITableViewController, ItemDetailViewControllerDe
 
     //MARK: Properties
     var checklistItems: [ChecklistItem]
+
+    
+    //MARK: Persistent Data
+    //Returns the path
+    func documentDirectory() -> URL{
+        let paths = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask)
+        return paths[0]
+    }
+    
+    func dataFilePath() -> URL{
+        return documentDirectory().appendingPathComponent("Checklist.plist")
+    }
+    
+    //Save list item
+    func saveChecklistItems() {
+        //declare mutable data and archiver
+        let data = NSMutableData()
+        let archiver = NSKeyedArchiver(forWritingWith: data)
+        
+        //encode the item
+        archiver.encode(checklistItems, forKey: "ChecklistItems")
+        archiver.finishEncoding()
+        
+        //Write data
+        data.write(to: dataFilePath(), atomically: true)
+    }
     
     //MARK: Delegate Protocols
     //Prepage (prepare-for-segue) gives data to controller before it is displayed
@@ -49,6 +75,9 @@ class ChecklistViewController: UITableViewController, ItemDetailViewControllerDe
         let indexPaths = [indexPath]
         tableView.insertRows(at: indexPaths, with: .automatic)
         
+        //save item to document
+        saveChecklistItems()
+        
         //dismiss the add item controller
         dismiss(animated: true, completion: nil)
     }
@@ -60,6 +89,10 @@ class ChecklistViewController: UITableViewController, ItemDetailViewControllerDe
                 configureText(for: cell, with: item)
             }
         }
+        
+        //save item to document
+        saveChecklistItems()
+        
         dismiss(animated: true, completion: nil)
     }
     
@@ -115,14 +148,24 @@ class ChecklistViewController: UITableViewController, ItemDetailViewControllerDe
             configCheckmark(for: cell, with: item)
         }
         
+        //save item to document
+        saveChecklistItems()
+        
         //Deselect the row
         tableView.deselectRow(at: indexPath, animated: true)
     }
     
     override func tableView(_ tableView: UITableView, commit editingStyle: UITableViewCellEditingStyle, forRowAt indexPath: IndexPath) {
+        
+        //remove item from check list
         checklistItems.remove(at: indexPath.row)
         let indexPaths = [indexPath]
+        
+        //remove item to table
         tableView.deleteRows(at: indexPaths, with: .automatic)
+        
+        //save item to document
+        saveChecklistItems()
     }    
 }
 
