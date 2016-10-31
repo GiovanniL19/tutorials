@@ -104,10 +104,18 @@ class ChecklistViewController: UITableViewController, ItemDetailViewControllerDe
     //Sets up data
     required init?(coder aDecoder: NSCoder) {
         checklistItems = [ChecklistItem]()
-
         super.init(coder: aDecoder)
+        loadChecklistItems()
     }
     
+    func loadChecklistItems(){
+        let path = dataFilePath()
+        if let data = try? Data(contentsOf: path) {
+            let unarchiver = NSKeyedUnarchiver(forReadingWith: data)
+            checklistItems = unarchiver.decodeObject(forKey: "ChecklistItems") as! [ChecklistItem]
+            unarchiver.finishDecoding()
+        }
+    }
     
     //MARK: Configuration Functions
     

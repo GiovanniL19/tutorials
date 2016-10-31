@@ -14,6 +14,8 @@
 		F56A84DD1DB5082000B4B73E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F56A84DB1DB5082000B4B73E /* Main.storyboard */; };
 		F56A84DF1DB5082000B4B73E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F56A84DE1DB5082000B4B73E /* Assets.xcassets */; };
 		F56A84E21DB5082000B4B73E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F56A84E01DB5082000B4B73E /* LaunchScreen.storyboard */; };
+		F5CAA4631DC5394200EBBBB2 /* AllListsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAA4621DC5394200EBBBB2 /* AllListsViewController.swift */; };
+		F5CAA4651DC545C800EBBBB2 /* Checklist.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAA4641DC545C800EBBBB2 /* Checklist.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		F56A84DE1DB5082000B4B73E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F56A84E11DB5082000B4B73E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F56A84E31DB5082000B4B73E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F5CAA4621DC5394200EBBBB2 /* AllListsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AllListsViewController.swift; sourceTree = "<group>"; };
+		F5CAA4641DC545C800EBBBB2 /* Checklist.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Checklist.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				F56A84E01DB5082000B4B73E /* LaunchScreen.storyboard */,
 				F56A84E31DB5082000B4B73E /* Info.plist */,
 				F568BA001DBD0A8000C63F85 /* ItemDetailViewController.swift */,
+				F5CAA4621DC5394200EBBBB2 /* AllListsViewController.swift */,
+				F5CAA4641DC545C800EBBBB2 /* Checklist.swift */,
 			);
 			path = Checklists;
 			sourceTree = "<group>";
@@ -144,7 +150,9 @@
 			files = (
 				F56A84DA1DB5082000B4B73E /* ChecklistViewController.swift in Sources */,
 				F568B9FF1DBB85B000C63F85 /* ChecklistItem.swift in Sources */,
+				F5CAA4651DC545C800EBBBB2 /* Checklist.swift in Sources */,
 				F568BA011DBD0A8000C63F85 /* ItemDetailViewController.swift in Sources */,
+				F5CAA4631DC5394200EBBBB2 /* AllListsViewController.swift in Sources */,
 				F56A84D81DB5082000B4B73E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

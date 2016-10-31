@@ -24,13 +24,15 @@ class ChecklistItem: NSObject, NSCoding {
     
     //NSCoding Functions
     //a ChecklistItem should save an object named “Text” that contains the value of the instance variable text, and an object named “Checked” that contains the value of the variable checked.
-    func encode(with aCoder: NSCoder){
+    func encode(with aCoder: NSCoder) {
         aCoder.encode(text, forKey: "Text")
-        aCoder.encode(text, forKey: "Checked")
+        aCoder.encode(checked, forKey: "Checked")
     }
     
     //Protocol init
     required init?(coder aDecoder: NSCoder) {
+        text = aDecoder.decodeObject(forKey: "Text") as! String
+        checked = aDecoder.decodeBool(forKey: "Checked")
         super.init()
     }
 
