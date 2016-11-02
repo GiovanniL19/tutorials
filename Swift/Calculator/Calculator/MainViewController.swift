@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MainViewController.swift
 //  Calculator
 //
 //  Created by Giovanni Lenguito on 10/10/2016.
@@ -8,14 +8,16 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class MainViewController: UIViewController {
     // MARK: Properties
+    var historyCollection = [History]()
     @IBOutlet weak var display: UILabel!
     
     var operandStack = [Double]()
     var operatorSymbol: String?
     var typingInProgress = false
     var operandSelected = false
+    var calculation = ""
     
     var displayValue: Double {
         //Display Value set and get
@@ -39,8 +41,19 @@ class ViewController: UIViewController {
         }
     }
     // MARK: Functions
+    func loadHistory() -> [History]? {
+        return NSKeyedUnarchiver.unarchiveObject(withFile: History.ArchiveURL.path) as? [History]
+    }
+
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        if let savedHistory = loadHistory(){
+            historyCollection += savedHistory
+            print(savedHistory)
+        }
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
     
@@ -54,6 +67,8 @@ class ViewController: UIViewController {
     @IBAction func appendDigit(_ sender: AnyObject) {
         //Listens for button click and sets data
         let digit = sender.currentTitle!;
+        calculation.append(String(digit!))
+        
         operandSelected = false
         
         //Updates the display value
@@ -66,13 +81,15 @@ class ViewController: UIViewController {
     }
     
     @IBAction func operation(_ sender: AnyObject) {
-        //When user clicks operator
-        operandSelected = true
-        typingInProgress = false
-        operatorSymbol = sender.currentTitle!
-        operandStack.append(displayValue)
-        
-        display.text = sender.currentTitle!
+        if(display.text != sender.currentTitle!){
+            //When user clicks operator
+            operandSelected = true
+            typingInProgress = false
+            operatorSymbol = sender.currentTitle!
+            operandStack.append(displayValue)
+            calculation.append(String(operatorSymbol!))
+            display.text = sender.currentTitle!
+        }
     }
     
     @IBAction func equals(_ sender: AnyObject) {
@@ -101,6 +118,15 @@ class ViewController: UIViewController {
                 
                 default: break
             }
+            calculation.append(String("=" + String(display.text!)))
+            
+            //Save history item
+            let date: NSDate = NSDate()
+            let newHistoryItem: History = History(dateTime: date, calculation: calculation)!
+            historyCollection.append(newHistoryItem)
+            saveHistory()
+            
+
         }
     }
     
@@ -110,11 +136,15 @@ class ViewController: UIViewController {
         typingInProgress = false
         operatorSymbol = nil
         displayValue = 0
+        calculation = ""
     }
     
     @IBAction func del(_ sender: AnyObject) {
         //Deletes last value entered
         let length:Int = display.text!.characters.count as Int
+        if calculation != ""{
+            calculation.remove(at: calculation.index(before: calculation.endIndex))
+        }
         
         typingInProgress = true
         
@@ -137,6 +167,17 @@ class ViewController: UIViewController {
         //Set operandSelect back to default incase nexr value is a number
         operandSelected = false
         
+    }
+    
+    //MARK: NSCoding
+    func saveHistory(){
+        let isSuccessfulSave = NSKeyedArchiver.archiveRootObject(historyCollection, toFile: History.ArchiveURL.path)
+        
+        if !isSuccessfulSave{
+            print("Error saving history item")
+        }else{
+            print("Saved History Item")
+        }
     }
 
 }
