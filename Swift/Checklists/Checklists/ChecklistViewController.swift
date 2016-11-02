@@ -12,7 +12,7 @@ class ChecklistViewController: UITableViewController, ItemDetailViewControllerDe
 
     //MARK: Properties
     var checklistItems: [ChecklistItem]
-
+    var checklist: Checklist!
     
     //MARK: Persistent Data
     //Returns the path
@@ -99,6 +99,8 @@ class ChecklistViewController: UITableViewController, ItemDetailViewControllerDe
     //MARK: Functions
     override func viewDidLoad() {
         super.viewDidLoad()
+        //sets name of title bar to selected checklist
+        title = checklist.name
     }
     
     //Sets up data
