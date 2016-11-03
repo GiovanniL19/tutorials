@@ -1,4 +1,4 @@
-package giovannilenguito.co.uk.androidweather.Model;
+package giovannilenguito.co.uk.androidweather.model;
 
 /**
  * Created by giovannilenguito on 03/11/2016.
