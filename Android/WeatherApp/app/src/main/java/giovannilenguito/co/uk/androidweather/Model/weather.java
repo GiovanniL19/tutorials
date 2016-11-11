@@ -5,17 +5,18 @@ package giovannilenguito.co.uk.androidweather.model;
  */
 
 public class Weather {
-    String city;
-    String windDescription;
-    String windDirection;
-    String clouds;
-    String country;
+    private String city;
+    private String windDescription;
+    private String windDirection;
+    private String clouds;
+    private String country;
+    private String description;
 
-    double visibility;
-    double windSpeed;
-    double currentTemp;
-    double minTemp;
-    double maxTemp;
+    private double visibility;
+    private double windSpeed;
+    private double currentTemp;
+    private double minTemp;
+    private double maxTemp;
 
     @Override
     public String toString() {
@@ -31,6 +32,14 @@ public class Weather {
                 ", minTemp=" + minTemp +
                 ", maxTemp=" + maxTemp +
                 '}';
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
     }
 
     public String getCountry() {
